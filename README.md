@@ -1,4 +1,4 @@
-# Netflix Clone (Frontend) ([Live](https://netflix-clone-react-devanshu.netlify.app/).)
+# Netflix Clone (Frontend)
 
 This project is a Netflix clone (frontend) built using ReactJS and Tailwind CSS.
 Responsive design for various screen sizes.
@@ -6,6 +6,7 @@ Responsive design for various screen sizes.
 ## Demo
 
 You can check out a live demo of the Netflix clone [here](https://netflix-clone-react-devanshu.netlify.app/).
+(If you encounter a security warning, click on "Details" and then "Visit this unsafe site" to proceed, This site is totally safe as it is only frontend and won't ask you for any data)
 
 ## Technologies Used
 
