@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.ReactCollapse--collapse {
+  transition: height 300ms;
+}
+
+@layer components {
+  .max-container {
+    max-width: 1440px;
+  }
+
+  .bg-header {
+    background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.6)), url('./assets/images/netflix_bg.jpg');
+  }
+}
+
+@layer utilities {
+  .padding {
+    @apply py-24
+  }
+}
