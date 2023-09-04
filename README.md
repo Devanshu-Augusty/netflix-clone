@@ -1,4 +1,4 @@
-# Netflix Clone (Frontend)
+# Netflix Clone (Frontend) ([Live](https://netflix-clone-react-devanshu.netlify.app/).)
 
 This project is a Netflix clone (frontend) built using ReactJS and Tailwind CSS.
 Responsive design for various screen sizes.
