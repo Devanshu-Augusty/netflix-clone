@@ -5,7 +5,7 @@ Responsive design for various screen sizes.
 
 ## Demo
 
-You can check out a live demo of the Netflix clone [here](https://netflix-clone-react-devanshu.netlify.app/).
+You can check out a live demo of the Netflix clone [here](https://netflix-ui-clone-react-devanshu.netlify.app/).
 
 (If you encounter a security warning, click on "Details" and then "Visit this unsafe site" to proceed, This site is totally safe as it is only frontend and won't ask you for any data)
 
