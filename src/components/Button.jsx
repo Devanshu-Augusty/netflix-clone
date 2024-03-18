@@ -1,7 +1,7 @@
 
 
 const Button = ({text, globeIcon, dropIcon}) => {
-  //comment test
+  //comment test (again)
   return (
     <div>
         <button className={`text-white py-1 px-3
